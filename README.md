@@ -6,7 +6,7 @@ Sistema completo de agendamento feito para um estúdio de alongamento de unhas r
 - **Painel da profissional**: agenda do dia, calendário, clientes e fechamento de dias, pensado para usar no celular.
 - **Vitrine pública**: site com os serviços, preços e dias sem atendimento, tudo vindo da API em tempo real.
 
-> Este repositório é um **portfólio**. O código completo fica num repositório privado. Aqui estão trechos escolhidos e prints com **dados fictícios** (nome do estúdio, clientes e telefones são de exemplo).
+> Este repositório é um **portfólio**. O código completo não pôde ser divulgado. Aqui estão trechos escolhidos e prints com **dados fictícios** (nome do estúdio, clientes e telefones são de exemplo).
 
 ---
 
